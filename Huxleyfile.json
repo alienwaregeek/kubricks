@@ -1,0 +1,7 @@
+[
+  {
+    "name": "index",
+    "screenSize": [1000, 600],
+    "url": "http://localhost:8081/index.html"
+  }
+]
