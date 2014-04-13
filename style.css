@@ -5,3 +5,18 @@ h1 {
 p {
   font-family: Courier;
 }
+
+.space {
+	color: #000;
+	background-color: #bbb;
+}
+
+.shining {
+	color: #ffadad;
+	background-color: #db0000;
+}
+
+.eyeswideshut {
+	color: #928aff;
+	background-color: #0d00c7;
+}
